@@ -1,1 +1,3 @@
-Name : Net
+Name: Net
+Address:Bangkok
+Phone: 065-054-9961
